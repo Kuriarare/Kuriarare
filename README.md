@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos
 - 👀 I’m interested in becoming a Full-Stack Developer
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m currently learning JavaScript, HTML, CSS, ReactJS  and Tailwind.CSS
 - 💞️ I’m looking to collaborate on any projects ralated to it. Anything that can give me some experience and push me to become better.
 - 📫 You can contact me on E-mail : cm33673@gmail.com
 
