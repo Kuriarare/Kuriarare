@@ -7,7 +7,7 @@ Full-Stack Developer
 I've had a diverse career, starting as an Environmental Engineer tackling sustainability challenges for two years, followed by five years as an English teacher helping students grow. I then moved into customer service, honing my communication and problem-solving skills, and now work as a full-stack developer. Currently, I’m co-building Lingolandias, a company creating platforms to make language learning more accessible (lingolandias.net, lingolandias.com). I'm passionate about learning and collaborating to turn ideas into reality. Let’s connect!
 
 *   🌍  I'm based in Bogota, Colombia
-*   🖥️  See my portfolio at [My Portfolio](http://https://kuriarare.github.io/porfolio/)
+*   🖥️  See my portfolio at [My Portfolio](https://kuriarare.github.io/porfolio/)
 *   ✉️  You can contact me at [cm33673@gmail.com](mailto:cm33673@gmail.com)
 *   🚀  I'm currently working on [Lingolandias](http://lingolandias.net)
 *   🧠  I'm learning | MERN| Redux | NestJS | TypeScript | Docker | PostgreSQL | Git | GitHub | Tailwind | JavaScript | VPS Hosting | Nginx | WebSockets |### Skills 
