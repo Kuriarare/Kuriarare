@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I've had a diverse career, starting as an Environmental Engineer tackling sustainability challenges for two years, followed by five years as an English teacher helping students grow. I then moved into customer service, honing my communication and problem-solving skills, and now work as a full-stack developer. Currently, I’m co-building Lingolandias, a company creating platforms to make language learning more accessible (lingolandias.net, lingolandias.com). I'm passionate about learning and collaborating to turn ideas into reality. Let’s connect!
+Environmental Engineer with experience as a junior full-stack developer, skilled in designing and implementing robust web solutions and applications. I have led the development of an integrated learning platform for Lingolandias, including a website
+and application, utilizing technologies such as MERN, TypeScript, Docker, PostgreSQL, Tailwind CSS, and Websockets. My background includes expertise in software architecture, VPS hosting management with Nginx, and version control with
+Git/GitHub. I focus on optimization, scalability, and solving complex problems, leveraging technical competencies and adaptability acquired across various industries.
 
 *   🌍  I'm based in Bogota, Colombia
 *   🖥️  See my portfolio at [My Portfolio](https://kuriarare.github.io/porfolio/)
