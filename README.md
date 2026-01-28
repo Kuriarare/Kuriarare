@@ -4,9 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-Environmental Engineer with experience as a junior full-stack developer, skilled in designing and implementing robust web solutions and applications. I have led the development of an integrated learning platform for Lingolandias, including a website
-and application, utilizing technologies such as MERN, TypeScript, Docker, PostgreSQL, Tailwind CSS, and Websockets. My background includes expertise in software architecture, VPS hosting management with Nginx, and version control with
-Git/GitHub. I focus on optimization, scalability, and solving complex problems, leveraging technical competencies and adaptability acquired across various industries.
+Full-Stack Developer with hands-on experience building and deploying production web applications using React, TypeScript, Node.js, PostgreSQL, and Redux. Proven ability to deliver scalable features across front-end, back-end, and infrastructure.
+Currently working on a live online learning platform supporting 500+ active users, where I develop REST APIs, real-time features with WebSockets (Socket.IO), authentication flows (JWT, OAuth 2.0), and responsive user interfaces. Experience deploying applications on VPS environments with Nginx, ensuring reliability and performance in production.
+
+Strong background in:
+Front-end development with React, Next.js, Tailwind CSS
+Back-end services with Node.js, NestJS, Express
+Databases and data modeling with PostgreSQL
+Real-time systems, email automation, and API documentation
+Version control, CI/CD, Docker, and cloud storage (AWS S3)
+
+I bring a problem-solving mindset, clean code practices, and strong communication skills developed through previous teaching and customer-facing roles. Comfortable collaborating in agile teams and owning features end-to-end.
+Actively seeking Junior to Mid-Level Full-Stack Developer roles (React / Node.js), where I can contribute quickly and grow within a strong engineering team.
 
 *   🌍  I'm based in Bogota, Colombia
 *   🖥️  See my portfolio at [My Portfolio](https://kuriarare.github.io/porfolio/)
